@@ -42,7 +42,7 @@ Explore the website by visiting the link - [Fedorov Utvikler](https://www.nikita
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Nikita-stud/portfolio-2026
+git clone https://github.com/nik-fed/portfolio-2026
 ```
 
 2. Install the dependencies:
@@ -93,6 +93,6 @@ DIALECT=mysql
 
 ### Contact
 
-You can always contact me through kontakt@fedutvikler.com
+You can always contact me through nikitafedutv@outlook.com
 
-@Nikita-stud
+@nik-fed

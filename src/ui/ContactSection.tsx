@@ -91,15 +91,15 @@ export default function ContactSection() {
         </div>
         <div className="flex flex-wrap items-center justify-between gap-x-[20px] gap-y-[30px] mt-[30px] mb-[20px]">
           <a
-            href="mailto:kontakt@fedutvikler.com"
+            href="mailto:nikitafedutv@outlook.com"
             className="w-fit font-cormorant text-gold text-h2-mobile transition-colors duration-500 hover:text-gold-darker lg:text-h2-desktop"
           >
             <i className="fa-solid fa-envelope text-body-mobile"></i>{' '}
-            kontakt@fedutvikler.com
+            nikitafedutv@outlook.com
           </a>
           <div className="flex gap-[20px] text-white text-[30px]">
             <a
-              href="https://github.com/Nikita-stud"
+              href="https://github.com/nik-fed"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"

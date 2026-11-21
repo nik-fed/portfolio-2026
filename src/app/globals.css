@@ -202,13 +202,22 @@
   /*----- HERO ------*/
   .frame {
     border: 5px solid transparent;
-    border-image: linear-gradient(
+    /* border-image: linear-gradient(
         var(--frame-angle),
         var(--color-gold-darker) 0%,
         var(--color-gold) 50%,
         var(--color-gold-darker) 100%
       )
-      1;
+      1; */
+    background:
+      linear-gradient(var(--color-dark), var(--color-dark)) padding-box,
+      linear-gradient(
+          var(--frame-angle),
+          var(--color-gold-darker) 0%,
+          var(--color-gold) 50%,
+          var(--color-gold-darker) 100%
+        )
+        border-box;
   }
 
   @media (min-width: 744px) {
